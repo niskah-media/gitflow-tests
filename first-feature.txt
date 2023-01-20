@@ -1,0 +1,2 @@
+this is my first feature file
+modified in parallel with upstream
